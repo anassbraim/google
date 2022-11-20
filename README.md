@@ -1,9 +1,6 @@
 # google
-Google UI Fully Responsive Website Using HTML &amp; CSS
-
-# Netflix | HTML, CSS & JavaScript
 <h2> Description </h2>
-Google UI Fully Responsive Website Using HTML &amp; CSS
+Google UI Fully Responsive Website Using HTML &amp; CSS <br>
 Live Demo: 
 
 <h2> Contat Info </h2>
