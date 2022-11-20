@@ -1,6 +1,6 @@
-# google
+# Google User Interface Design by HTML & CSS
 <h2> Description </h2>
-Google UI Fully Responsive Website Using HTML &amp; CSS <br>
+Google UI Website is a fully responsive famous website, responsive for all devices, built using HTML, CSS. <br>
 Live Demo: https://google-web.netlify.app
 
 <h2> Contat Info </h2>
